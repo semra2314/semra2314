@@ -27,8 +27,8 @@
 ### 📊 GitHub İstatistiklerim
 > Not: İstatistiklerin görünmesi için aşağıdaki kullanıcı adını kendi GitHub adınla değiştirmen gerekebilir.
 
-![Semra'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=semrayaslan&show_icons=true&theme=nord&count_private=true)
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=semrayaslan&layout=compact&theme=nord)
+![Semra'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=semra2314&show_icons=true&theme=nord&count_private=true)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=semra2314&layout=compact&theme=nord)
 
 ---
 
