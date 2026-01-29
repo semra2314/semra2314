@@ -7,56 +7,42 @@
 ### 🎓 Hakkımda
 Şu anda **Bilgisayar Mühendisliği 3. sınıf** öğrencisiyim. Verilerin ardındaki hikayeleri keşfetmeye ve yapay zeka algoritmalarıyla geleceği şekillendirmeye odaklanıyorum.
 
-* 🔍 **Veri Bilimi:** Veri temizleme, görselleştirme ve istatistiksel analiz.
-* 🧠 **Yapay Zeka:** Makine öğrenmesi modelleri ve derin öğrenme.
-* 💻 **Yazılım Geliştirme:** Temiz ve sürdürülebilir kod yazma.
-
 ---
 
 ### 💻 Teknolojik Yetkinlikler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,mssql,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,pycharm" />
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ---
 
-### 🧩 Küçük Bir Mola: Teknik Bilmeceler
-*Cevapları görmek için soruların üzerine tıklayın!*
+### 🧩 Teknik Bilmeceler
+*Sorular aşağıdadır, cevapları görmek için kutucuklara tıklayın!*
 
+**1. Soru:** Ben bir ağacım ama meyvem yok; dallarım var ama yaprağım yok. En altımda "kararlar", en üstümde "kök" var. Ben neyim?
 <details>
-  <summary><b>1. Ben bir ağacım ama meyvem yok...</b></summary>
-  <br>
-  <blockquote>
-    <b>Soru:</b> Ben bir ağacım ama meyvem yok; dallarım var ama yaprağım yok. En altımda "kararlar", en üstümde "kök" var. Ben neyim?<br><br>
-    <b>Cevap:</b> Karar Ağacı (Decision Tree) 🌳
-  </blockquote>
+  <summary><b>▶️ Cevabı Gör</b></summary>
+  <blockquote><b>Karar Ağacı (Decision Tree) 🌳</b></blockquote>
 </details>
 
+**2. Soru:** Bir şeyi binlerce kez yapabilirim ama her seferinde bir adım ileri giderim. Durmam gereken yeri söylemezsen sonsuza dek dönerim. Ben neyim?
 <details>
-  <summary><b>2. Bir şeyi binlerce kez yapabilirim...</b></summary>
-  <br>
-  <blockquote>
-    <b>Soru:</b> Bir şeyi binlerce kez yapabilirim ama her seferinde bir adım ileri giderim. Durmam gereken yeri söylemezsen sonsuza dek dönerim. Ben neyim?<br><br>
-    <b>Cevap:</b> Döngü (Loop) 🔄
-  </blockquote>
+  <summary><b>▶️ Cevabı Gör</b></summary>
+  <blockquote><b>Döngü (Loop) 🔄</b></blockquote>
 </details>
 
+**3. Soru:** Çok fazla veriye sahip olduğumda her şeyi ezberlerim ama yeni bir şey gördüğümde hiçbir şey yapamam. Benim problemim ne?
 <details>
-  <summary><b>3. Çok fazla veriye sahip olduğumda...</b></summary>
-  <br>
-  <blockquote>
-    <b>Soru:</b> Çok fazla veriye sahip olduğumda her şeyi ezberlerim ama yeni bir şey gördüğümde hiçbir şey yapamam. Benim problemim ne?<br><br>
-    <b>Cevap:</b> Aşırı Öğrenme (Overfitting) 🧠❌
-  </blockquote>
+  <summary><b>▶️ Cevabı Gör</b></summary>
+  <blockquote><b>Aşırı Öğrenme (Overfitting) 🧠❌</b></blockquote>
 </details>
 
+**4. Soru:** Bir anahtarım var ama kapıları açmam. Bir değerim var ama param yok. Python'da süslü parantezlerle { } hapsolmuşum. Ben neyim?
 <details>
-  <summary><b>4. Bir anahtarım var ama kapıları açmam...</b></summary>
-  <br>
-  <blockquote>
-    <b>Soru:</b> Bir anahtarım var ama kapıları açmam. Bir değerim var ama param yok. Python'da süslü parantezlerle { } hapsolmuşum. Ben neyim?<br><br>
-    <b>Cevap:</b> Sözlük (Dictionary) 📖
-  </blockquote>
+  <summary><b>▶️ Cevabı Gör</b></summary>
+  <blockquote><b>Sözlük (Dictionary) 📖</b></blockquote>
 </details>
 
 ---
