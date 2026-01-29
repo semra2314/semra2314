@@ -11,39 +11,37 @@
 
 ### 💻 Teknolojik Yetkinlikler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,sqlserver,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode,pycharm" />
+  <br>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ---
 
 ### 🧩 Teknik Bilmeceler
-*Soruları okuyup, cevabı merak edince butona tıklaman yeterli!*
+*Sorular aşağıdadır, cevapları görmek için kutucuklara tıklayın!*
 
 **1. Soru:** Ben bir ağacım ama meyvem yok; dallarım var ama yaprağım yok. En altımda "kararlar", en üstümde "kök" var. Ben neyim?
 <details>
   <summary><b>▶️ Cevabı Gör</b></summary>
-  <br>
   <blockquote><b>Karar Ağacı (Decision Tree) 🌳</b></blockquote>
 </details>
 
 **2. Soru:** Bir şeyi binlerce kez yapabilirim ama her seferinde bir adım ileri giderim. Durmam gereken yeri söylemezsen sonsuza dek dönerim. Ben neyim?
 <details>
   <summary><b>▶️ Cevabı Gör</b></summary>
-  <br>
   <blockquote><b>Döngü (Loop) 🔄</b></blockquote>
 </details>
 
 **3. Soru:** Çok fazla veriye sahip olduğumda her şeyi ezberlerim ama yeni bir şey gördüğümde hiçbir şey yapamam. Benim problemim ne?
 <details>
   <summary><b>▶️ Cevabı Gör</b></summary>
-  <br>
   <blockquote><b>Aşırı Öğrenme (Overfitting) 🧠❌</b></blockquote>
 </details>
 
 **4. Soru:** Bir anahtarım var ama kapıları açmam. Bir değerim var ama param yok. Python'da süslü parantezlerle { } hapsolmuşum. Ben neyim?
 <details>
   <summary><b>▶️ Cevabı Gör</b></summary>
-  <br>
   <blockquote><b>Sözlük (Dictionary) 📖</b></blockquote>
 </details>
 
